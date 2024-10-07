@@ -38,7 +38,7 @@ clase_personaje, dano_personaje, vida_personaje, armadura_personaje = personaje(
 #Inicio Tutorial
 mensaje_tutorial_1 = "Antes de empezar tu gran aventura es necesario aprender lo básico."
 mensaje_tutorial_2 = "En está aventura te encontraras con un mundo lleno de sorpresas."
-mensaje_tutorial_3 = ""
+mensaje_tutorial_3 = "Hola"
 
 
 

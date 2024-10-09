@@ -56,6 +56,8 @@ tipo_enemigo, dano_enemigo, vida_enemigo, armadura_enemigo = enemigos_nivel1(num
 
 print(tipo_enemigo,numero_enemigo_aleatorio)
 
+print("HOLAAAAAAAAAAAAAAAAAAAAAAAA")
+
 #Empezar Juego
 #while vida_personaje >= 1:
 #    print("Game Over")

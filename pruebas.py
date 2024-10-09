@@ -24,4 +24,3 @@ while x < 5 and y < 5:
         y = y - 1
     
     contador_ejes = contador_ejes + 1
-    
